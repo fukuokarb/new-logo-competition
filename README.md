@@ -2,6 +2,8 @@
 
 ## あらまし
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lC0fnVY9jDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Fukuoka.rb 234回を記念して、コミュニティのロゴを刷新したく、公募制のロゴコンペを開催します。奮ってご参加ください。
 
 234 というのは、 [福岡タワーの高さ `234m` に由来しています。](https://www.fukuokatower.co.jp/viewroom/) （はい、Asakusa.rbのフォロワーです）
