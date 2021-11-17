@@ -2,7 +2,7 @@
 
 ## あらまし
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lC0fnVY9jDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+（告知の動画: https://youtu.be/lC0fnVY9jDE ）
 
 Fukuoka.rb 234回を記念して、コミュニティのロゴを刷新したく、公募制のロゴコンペを開催します。奮ってご参加ください。
 
