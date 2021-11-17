@@ -29,8 +29,8 @@ Fukuoka.rb 234回を記念して、コミュニティのロゴを刷新したく
 ### 応募の仕方
 
 * 以下の流れを予定しています。
-  * Fukuoka.rbでGoogle Formを用意します。
-  * そちらに必要事項をご記入いただき、ご応募ください。
+  * [応募立候補用のフォームはこちらになります。](https://docs.google.com/forms/d/e/1FAIpQLScYkh9b2iQHHYb8PQW7vUAgHWw-QJqTlTes8wP_ZIynO3rEtA/viewform?usp=sf_link)
+  * このフォームにまずは必要事項をご記入いただき、ご応募ください。この時点でロゴが完成していなくて構いません。
   * 応募後、シークレットリポジトリである [fukuokarb/logo-candidates](https://github.com/fukuokarb/logo-candidates) （現在は非公開です）にご招待します。
   * そちらに、投票期間になるまでに一人当たり一つIssueを作成していただき、そちらにロゴの画像、ロゴの説明、その他アピールといったプレゼンテーションを投稿してください。
   * 以上でご応募は完了となります。
