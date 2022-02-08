@@ -8,6 +8,16 @@ Fukuoka.rb 234回を記念して、コミュニティのロゴを刷新したく
 
 234 というのは、 [福岡タワーの高さ `234m` に由来しています。](https://www.fukuokatower.co.jp/viewroom/) （はい、Asakusa.rbのフォロワーです）
 
+## お知らせ
+
+ロゴ投票期間が始まりました！　候補者の皆様は以下のリポジトリで一覧できます。
+
+* https://github.com/fukuokarb/logo-candidates/issues
+
+また、投票用のイベントは以下です。イベントの説明をご参照ください。
+
+* https://fukuokarb.connpass.com/event/239176/
+
 ## 概要
 
 ### 募集期間
